@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    URL: ''
+    URL: 'https://backend-nn.onrender.com'
   };
